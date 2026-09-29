@@ -1,0 +1,33 @@
+本仓库采用双重许可 / This repository is dual-licensed:
+
+1. 壁纸与预览图（backgrounds/、preview.png）
+   Wallpapers and preview image (backgrounds/, preview.png)
+
+   壁纸均取自已进入公有领域的中国古代绘画（图像来自 Wikimedia Commons），
+   可自由使用。作品信息见 README.md。
+   All wallpapers are details of public-domain Chinese paintings (images
+   via Wikimedia Commons) and are free to use. See README.md for details.
+
+2. 其余所有文件（配色与配置）/ All other files (colors and configuration)
+
+   MIT License
+
+   Copyright (c) 2026 rwanglq-ctrl
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.

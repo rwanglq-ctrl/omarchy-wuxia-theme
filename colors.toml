@@ -1,0 +1,31 @@
+# 武侠 Wuxia — 宣纸为底、浓墨为字、血色为印、竹青剑光点缀。深色版见 wuxia-night。
+mode = "light"
+accent = "#A3261E"
+selection = "#DBD7C7"
+muted = "#898983"
+
+background = "#EFEDE6"
+dark_background = "#E7E4DA"
+darker_background = "#DDD9CA"
+lighter_background = "#E3E0D3"
+
+foreground = "#1A1A1A"
+dark_foreground = "#6B6B67"
+light_foreground = "#3C3C3A"
+bright_foreground = "#1A1A1A"
+
+red = "#A3261E"
+yellow = "#806414"
+orange = "#9C501C"
+green = "#2D6A4F"
+cyan = "#286878"
+blue = "#2E4E78"
+magenta = "#7A345A"
+brown = "#5A4030"
+
+bright_red = "#B42A21"
+bright_yellow = "#896B16"
+bright_green = "#33785A"
+bright_cyan = "#2D7587"
+bright_blue = "#345887"
+bright_magenta = "#883A65"
