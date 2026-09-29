@@ -14,11 +14,10 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-wuxia-theme
 
 1. 陈洪绶《雅集图》卷局部，明（公有领域，图像来自 Wikimedia Commons）
 2. 仇英《蜀道图》局部，明（公有领域，图像来自 Wikimedia Commons）
-3. 龚开《中山出游图》局部，宋末元初，弗利尔美术馆（公有领域，图像来自 Wikimedia Commons）
-4. 黄慎《苏武牧羊图》局部，清（公有领域，图像来自 Wikimedia Commons）
-5. 赵雍《挟弹游骑图》轴局部，元，故宫博物院（公有领域，图像来自 Wikimedia Commons）
-6. 唐人（佚名）《明皇幸蜀图》轴局部，台北故宫博物院（图像依 CC BY 4.0 授权，© 国立故宫博物院 www.npm.gov.tw，经 Wikimedia Commons）
-7. 马远《山径春行》（《名绘集珍册》）局部，南宋，台北故宫博物院（公有领域，图像来自 Wikimedia Commons）
+3. 黄慎《苏武牧羊图》局部，清（公有领域，图像来自 Wikimedia Commons）
+4. 赵雍《挟弹游骑图》轴局部，元，故宫博物院（公有领域，图像来自 Wikimedia Commons）
+5. 唐人（佚名）《明皇幸蜀图》轴局部，台北故宫博物院（图像依 CC BY 4.0 授权，© 国立故宫博物院 www.npm.gov.tw，经 Wikimedia Commons）
+6. 马远《山径春行》（《名绘集珍册》）局部，南宋，台北故宫博物院（公有领域，图像来自 Wikimedia Commons）
 
 ## 许可
 
